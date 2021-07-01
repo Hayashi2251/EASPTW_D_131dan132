@@ -1,5 +1,6 @@
 Untuk dapat melihat gambarnya, harap download gambarnya di https://drive.google.com/drive/folders/1t2VkU0hLaecqH8CM7flR-_xcaSxXmxgn?usp=sharing. Taruh di htdocs dan langsung di ekstrak di situ. Program kami menggunakan FileZilla dalam melakukannya.
 
+Tata Cara install.
 1. Kloning repo dan cd ke dalamnya
 Link github: https://github.com/Hayashi2251/EASPTW_D_131dan132.git 
 2. Perintah Terminal “composer update”
